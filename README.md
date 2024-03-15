@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Akash
 #### I am MERN based web application developer.
-I'm Akash, a dedicated MERN Stack Developer with a knack for crafting dynamic and user-centric web solutions. My journey in the world of coding began with an insatiable curiosity, and it has evolved into a mission to create innovative digital experiences that leave a lasting impact.
+I'm Akash, a dedicated MERN Stack Developer with a knack for crafting dynamic and user-centric web solutions. My journey in the world of coding began with an insatiable curiosity, and it has evolved into a mission to create innovative digital experiences that leave a lasting impact. Currently I am learning C,C++,python,Data Structure and algorithm,object orient programming to enhance my programming skill.
 
 Skills: JavaScript/React/Node.js/MongoDB/HTML/CSS/Tailwind CSS
 
